@@ -1,3 +1,4 @@
+.vscode/
 logs
 logs/*
 config.*.json
@@ -11,3 +12,4 @@ jsbin.sqlite
 node_modules
 public/runner.html
 tmp/*
+.env.*
